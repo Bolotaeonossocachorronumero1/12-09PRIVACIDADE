@@ -1,0 +1,15 @@
+.cabeçalho{
+   background-color: rgb(255, 255, 255);
+   display: flex;
+   justify-content: space-evenly;
+   padding-top: 20px;
+   margin: 05px;
+}
+
+#banner img{
+   float: left
+}
+
+#banner p {
+   float: left;
+}
